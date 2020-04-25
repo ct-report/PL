@@ -1,7 +1,7 @@
 # PL
 Contact Tracing - Poland
 
-**ProteGO Safe** developed by TYTANI24 for the Polish Ministry of Digitization
+**ProteGO Safe** developed by TYTANI24 for the Polish Ministry of Digitization \
 **Mobile Proximity Tracing module still in development**
 
 Play Store | https://play.google.com/store/apps/details?id=pl.gov.mc.protegosafe
