@@ -2,7 +2,6 @@
 Contact Tracing - Poland
 
 **ProteGO Safe** developed by TYTANI24 for the Polish Ministry of Digitization. 
-\
 
 **Mobile Proximity Tracing module still in development = it will be added in next releases.**
 
